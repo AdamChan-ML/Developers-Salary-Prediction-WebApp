@@ -9,5 +9,8 @@ This project is developed to predict the developer salary and having an overview
 Data Cleaning:
 Data Visualization:
 Data Modeling:
+Web App Platform: Streamlit
 
-Dataset Source: [Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021) 
+Web App: [Access Here!](https://insights.stackoverflow.com/survey/2021)
+
+Dataset Source: [Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021)
