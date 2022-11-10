@@ -2,10 +2,10 @@
 
 ![ScreenShot](https://github.com/AdamChan-ML/Developers-Salary-Prediction-and-Dashboard/blob/main/blog-dev-survey-2021-results.png)
 
-##About This Project
+## About This Project
 This project is developed to predict the developer salary and having an overview o
 
-##Python Libraries Used
+## Python Libraries Used
 Data Cleaning:
 Data Visualization:
 Data Modeling:
