@@ -7,9 +7,9 @@ This project is developed to predict the developer salary and having an overview
 
 ## Python Libraries Used
 Data Cleaning:
-Data Visualization:
-Data Modeling:
-Web App Platform: Streamlit
+\nData Visualization:
+\nData Modeling:
+\nWeb App Platform: Streamlit
 
 Web App: [In Progress...](https://insights.stackoverflow.com/survey/2021)
 
